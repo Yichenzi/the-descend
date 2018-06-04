@@ -1,0 +1,23 @@
+{
+  "name": "the-descend",
+  "version": "0.0.0",
+  "description": "Small project for Feng and I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yichenzi/the-descend.git"
+  },
+  "keywords": [
+    "game",
+    "turn-based"
+  ],
+  "author": "Haodan Li, Feng Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yichenzi/the-descend/issues"
+  },
+  "homepage": "https://github.com/Yichenzi/the-descend#readme"
+}
